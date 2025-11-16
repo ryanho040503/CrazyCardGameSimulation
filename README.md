@@ -15,14 +15,9 @@
 // Visual Diagram for UML Classes Diagram
 
 **The project structure**
-src/
-└── ca.sheridancollege.hohoan.project1_hoangduy_ho
-  ├── Card.java
-  ├── Deck.java
-  ├── Player.java
-  ├── Game.java
-  └── Project1_HoangDuy_Ho.java
-  
+<img width="445" height="146" alt="Screenshot 2025-11-16 at 13 44 15" src="https://github.com/user-attachments/assets/52b961a7-e415-430d-ba68-09dd5de78e4d" />
+
+
 **The UML Diagram :**
 ![CrazyCardGameSimulation](https://github.com/user-attachments/assets/6cafd645-abea-429d-be87-b46b43daf37d)
 
