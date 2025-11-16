@@ -1,18 +1,18 @@
-// Course: SYST 17796 — Object-Oriented Programming - UML Model
-// Author: Ho Hoàng Duy  
-// Student ID:
-// Created on:November 16th 2025
-// Instructor : Zaki Asmat
+// Course: SYST 17796 — Object-Oriented Programming - UML Model <br>
+// Author: Ho Hoàng Duy <br>
+// Student ID: <br>
+// Created on:November 16th 2025 <br>
+// Instructor : Zaki Asmat <br>
 
-// File Including : Card.java, Deck.java, Game.java, Player.java, Project1.java
-// Description : This project is a simple Java card game simulation where four players take turns playing cards that match the rank or suit of the top card.  
+// File Including : Card.java, Deck.java, Game.java, Player.java, Project1.java <br>
+// Description : This project is a simple Java card game simulation where four players take turns playing cards that match the rank or suit of the top card. <br>
 
 
-// Technologies Used:
-// Java (JDK 17 or later)
-// NetBeans 19
-// Standard Java Collections API
-// Visual Diagram for UML Classes Diagram
+// Technologies Used: <br>
+// Java (JDK 17 or later) <br>
+// NetBeans 19 <br>
+// Standard Java Collections API <br>
+// Visual Diagram for UML Classes Diagram <br>
 
 **The project structure**
 <img width="445" height="146" alt="Screenshot 2025-11-16 at 13 44 15" src="https://github.com/user-attachments/assets/52b961a7-e415-430d-ba68-09dd5de78e4d" />
