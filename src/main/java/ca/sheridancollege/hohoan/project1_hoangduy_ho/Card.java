@@ -2,9 +2,9 @@ package ca.sheridancollege.hohoan.project1_hoangduy_ho;
 
 public class Card {
 
-	private int rank;
-	private String suit;
-	private int index;
+	private int rank; // rank 1 - 13 (Ace - King)
+        private String suit; // "Hearts", "Diamonds", "Clubs", "Spades"
+        private int index; // 0 - 51 unique index
 
 	/**
 	 * 
@@ -13,13 +13,14 @@ public class Card {
 	 * @param index
 	 */
 	public Card(int rank, String suit, int index) {
-		// TODO - implement Card.Card
-		throw new UnsupportedOperationException();
+            this.rank = rank;
+            this.suit = suit;
+            this.index = index; 
 	}
 
+        @Override
 	public String toString() {
-		// TODO - implement Card.toString
-		throw new UnsupportedOperationException();
+		return "(" + index + ") " + rank + " " + suit;
 	}
 
 	public int getRank() {
