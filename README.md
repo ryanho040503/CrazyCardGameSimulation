@@ -1,5 +1,5 @@
 Course: SYST 17796 — Object-Oriented Programming - UML Model <br>
-Author: Ho Hoàng Duy <br>
+Author: Ho Hoang Duy <br>
 Student ID: <br>
 Created on:November 16th 2025 <br>
 Instructor : Zaki Asmat <br>
